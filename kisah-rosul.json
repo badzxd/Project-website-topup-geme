@@ -1,0 +1,12 @@
+[
+    {
+        "nama": "Nabi Adam",
+        "kisah": "Kisah penciptaan manusia pertama",
+        "gambar": "https://example.com/nabi-adam.jpg"
+    },
+    {
+        "nama": "Nabi Nuh",
+        "kisah": "Kisah bahtera Nabi Nuh dan kaumnya",
+        "gambar": "https://example.com/nabi-nuh.jpg"
+    }
+]
