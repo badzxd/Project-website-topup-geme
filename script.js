@@ -43,7 +43,7 @@ function loadJadwalSholat() {
 
 // 3. **Doa Harian**
 function loadDoaList() {
-    fetch("data/doa.json")
+    fetch("doa.json")
         .then(response => response.json())
         .then(data => {
             let doaList = document.getElementById("doa-list");
@@ -64,7 +64,7 @@ function loadDoaList() {
 
 // 4. **Kisah 25 Rasul**
 function loadKisahRasul() {
-    fetch("data/kisah-rasul.json")
+    fetch("kisah-rasul.json")
         .then(response => response.json())
         .then(data => {
             let kisahList = document.getElementById("kisah-list");
